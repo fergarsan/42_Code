@@ -9,4 +9,5 @@ Proyectos para el proceso de selección del Campus 42 de programación y desarro
 # Titulo grande
 
 ## Titulo pequeño
-* Bullet point 1
+* **texto en negrita**
+* *cursiva*
